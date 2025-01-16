@@ -1,9 +1,6 @@
----
-title: Viana Tech
----
-![Viana Tech](media/vianatech.png)
-
 # Welcome to Viana Tech
+
+![Viana Tech](media/vianatech.png)
 
 Viana Tech is your hub for innovation and connection in the North of Portugal. We are a non-profit organization dedicated to fostering a thriving community of technology enthusiasts, software developers, and innovators. Whether you’re a seasoned developer, a tech entrepreneur, or just starting your journey in programming, Viana Tech is the place where you belong.
 
