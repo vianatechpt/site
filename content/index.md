@@ -1,3 +1,6 @@
+---
+title: Viana Tech
+---
 ![Viana Tech](media/vianatech.png)
 
 # Welcome to Viana Tech
