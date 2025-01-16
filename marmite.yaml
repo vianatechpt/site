@@ -4,5 +4,4 @@ url: https://vianatechpt.github.io/site
 extra:
   colorscheme: catppuccin
 menu:
-  - ["About", "about.html"]
   - ["Tags", "tags.html"]
